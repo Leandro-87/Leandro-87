@@ -6,7 +6,7 @@ Este sou eu:
 - :books: Em constante estudo de desenvolvimento
 ##
 <div style="display: inline-block">
-  <p>Linguagens que já trabalhei:</p>
+  <p>Linguagens:</p>
   <p>
     <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
